@@ -6,12 +6,7 @@ A small macOS app for when you run several Claude Code sessions in parallel. A p
 above the Dock shows what each session is doing, so you see at a glance when one is waiting
 for you.
 
-```
-        ┌─────────────────────────────────────────────────────────────┐
-        │  ✻ api  84k    ✶ web  212k    ✻ docs  36k  │  ▬▬▬░░ 45% · 215m │
-        └─────────────────────────────────────────────────────────────┘
-   [ Dock ........................................................... ]
-```
+![Lantern above the Dock](docs/screenshot.png)
 
 - 🔴 **Waiting for you**: a permission, a question or a plan to approve (pulses)
 - 🟡 **Working**: the star animates
